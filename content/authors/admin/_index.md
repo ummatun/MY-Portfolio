@@ -1,13 +1,13 @@
 ---
 # Display name
-title: 吳健雄
+title: Ummatun Khatun
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: Ummatun Khatun
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Ummatun
+last_name: Khatun
 
 # Status emoji
 status:
@@ -20,7 +20,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role: Student
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
@@ -142,12 +142,11 @@ skills:
         icon: camera
 
 languages:
-  - name: English
+  - name: Bangla
     percent: 100
-  - name: Chinese
+  - name: English
     percent: 75
-  - name: Portuguese
-    percent: 25
+  - 
 
 # Awards.
 #   Add/remove as many awards below as you like.
