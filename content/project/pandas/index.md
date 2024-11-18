@@ -10,4 +10,5 @@ tags:
 
 Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures.
 
+[Pandas Logo](https://raw.githubusercontent.com/pandas-dev/pandas/main/doc/source/_static/pandas.svg)
 <!--more-->
